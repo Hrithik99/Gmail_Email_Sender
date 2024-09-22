@@ -1,0 +1,38 @@
+
+### LLM Application Instructions for Email Validation and Finalization ###
+
+**Objective:**
+Validate and finalize the job application email based on the following checks. If certain placeholder information (e.g., "[Platform where you found the job]", "Dear [Hiring Manager Name]") is not provided, omit the placeholder sections but do not include any updating instructions in the final email. The email should be ready to send.
+
+**Checks and Modifications:**
+
+1. **Recipient Information:**
+   - Ensure the recipient's name is correctly provided. If "Dear [Hiring Manager Name]" is present and the name is not given, remove the placeholder and begin with a generic greeting like "Dear Hiring Manager."
+
+2. **Subject Line:**
+   - Ensure the subject line is clear and specific. If "[Job Title]" or "[Your Name]" placeholders are present and the information is not provided, omit these placeholders and leave the subject line with whatever specific information is available.
+
+3. **Email Content:**
+   - Verify that all placeholders like "[Platform where you found the job]" are replaced with the correct information if provided. If not, remove the placeholders without mentioning the need for updates.
+   - Ensure the email content is concise, professional, and free of unnecessary placeholders.
+
+4. **Tone and Language:**
+   - Check that the tone is formal and professional throughout the email.
+
+5. **Attachments:**
+   - Ensure there is a mention of attachments like resume or cover letter if applicable. If the content refers to attachments, but none are indicated in the email prompt, omit this reference.
+
+6. **Call to Action:**
+   - Confirm that there is a clear call to action, such as a request to discuss the application further or thanking the recipient for their consideration.
+
+7. **Sign-off:**
+   - Ensure the sign-off is appropriate (e.g., "Sincerely," "Best regards") and that all placeholder information (e.g., "[Your Full Name]") is correctly filled or removed if not provided.
+
+8. **General Formatting:**
+   - Check the overall formatting, ensuring there are no extra line breaks, and the email is structured properly.
+
+9. **Final Review:**
+   - Perform a final review to confirm that the email is clear, professional, and free of any placeholders or updating instructions.
+
+**Note:**
+If any of the placeholders are missing and cannot be replaced with specific information, simply remove them and adjust the email accordingly. The final output should be ready to send without any additional updates required.

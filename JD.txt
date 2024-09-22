@@ -1,0 +1,35 @@
+The Brattle Group, a privately held, global economics consulting firm, is looking for a Data Engineer to join our Boston, MA or Washington, D.C. office. The Data Engineer works in the data engineering team and alongside Brattle consulting teams to implement the latest technologies and provide expert guidance on technical workstreams.  Responsibilities will range from researching and implementing new tools, communicating with external clients, and creating reproducible scripts to clean, process, or analyze data. Projects are wide-ranging with numerous opportunities for professional development, innovation, and growth. 
+
+ 
+
+Some of the day-to-day responsibilities of this role include:
+
+Developing processes and pipelines for cleaning, validating, and uploading data to tabular formats ex: SQL Server, Azure Databricks, or PowerBI, in collaboration with IT and project teams
+Writing reproducible scripts (Python preferred) and defining processes that will classify, clean, and visualize unstructured text data
+Researching and implementing new tools and technologies to improve or introduce capabilities
+Loading and supporting internal applications used for eDiscovery and structured text extraction
+Liaise with clients and Brattle IT to determine ideal mode of delivery of digitized data/information from client to Brattle project teams
+Maintaining an internal repository of scripts for common work to be used throughout the firm
+Grow internal knowledge base by developing and presenting training courses to consulting staff
+Keeps abreast of new tools, software, and technologies and make recommendations to project teams for future deployment
+ 
+
+THE CANDIDATE
+
+Bachelor’s Degree in Computer Science, Computer Engineering, or related field
+3-4 years of relevant professional experience, preferably in a professional services firm
+Proficiency with Python, SQL, and utilizing SQL in data solutions
+Experience with cloud computing services (Microsoft Azure or AWS)
+Experience with Generative AI or other Machine Learning applications such as predictive modeling, classification, and clustering
+Experience with R is a plus
+Data visualization skills is a plus
+Excellent requirements gathering and project delivery skills
+Outstanding verbal and written communication skills
+Strong technical communication skills and experience writing for non-technical clients
+Ability to estimate and convey project timelines, challenges, and milestones
+Ability to work collaboratively and maintain a holistic view of project goals
+Entrepreneurial orientation with an interest in owning research projects
+Experience working in an applied data science role
+Preference for experience working as a teaching assistant
+Requires the ability to concentrate and pay close attention to detail and data anomalies
+Evening/weekend work may be expected/required, including travel

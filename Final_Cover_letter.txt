@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my keen interest in the Data Engineer position at The Brattle Group. With my strong technical foundation in data engineering and proven experience in building and optimizing data pipelines, I am confident in my ability to contribute significantly to your team.
+
+My academic background has provided me with a comprehensive understanding of data analytics and engineering principles. I hold a Master of Science in Data Analytics Engineering from Northeastern University, where I achieved a 4.0 GPA. My coursework focused on advanced topics such as Data Management for Analysis, Data Mining, Machine Learning for Engineers, and Neural Network and Deep Learning, solidifying my expertise in building robust data solutions. I also possess a Bachelor of Technology in Electronics and Communication Engineering from Vellore Institute of Technology, where I honed my problem-solving and analytical skills. 
+
+In my previous role as a Data Engineer at Bright Horizons, I excelled in optimizing data processes, reducing processing time by 70% for 18.3M+ contacts using Haversine distance and Bing Maps API. I have experience with building and deploying ETL pipelines using tools like Informatica PowerCenter and IDMC, and have a strong understanding of SQL, Python, and cloud platforms such as Azure and AWS. I have also worked on projects involving Generative AI and Machine Learning, including developing a sepsis prediction pipeline using Google Big Query and GCP. 
+
+I am particularly drawn to The Brattle Group's reputation for innovation and expertise in the field of economics consulting. My skills and experience align perfectly with the requirements outlined in the job description, and I am eager to learn from and contribute to your team's expertise. My ability to collaborate effectively, solve complex problems, and communicate technical concepts clearly will make me a valuable asset to your organization.
+
+Thank you for your time and consideration. I am available for an interview at your earliest convenience.
+
+Sincerely,
+Hrithik Sarda 

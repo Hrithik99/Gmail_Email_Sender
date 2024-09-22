@@ -1,0 +1,17 @@
+Subject: Data Engineer Application - Hrithik Sarda
+
+Dear Hiring Manager,
+
+I am writing to express my keen interest in the Data Engineer position at EDO. With my experience building complex data pipelines and expertise in technologies like AWS, Airflow, DBT, and Snowflake, I am confident I can make a significant contribution to your team.
+
+My background includes years of software engineering experience, including years specifically focused on data engineering. I have a proven track record of success in developing and optimizing data pipelines, working with large datasets, and collaborating effectively with data scientists to deliver valuable insights. 
+
+My experience in building an ETL pipeline for Snowflake, optimizing geo-location matching algorithms, and developing an audit tracking framework demonstrates my ability to handle large data volumes and deliver robust, reliable solutions. I am proficient in SQL, Python, and various data engineering tools, and I am passionate about leveraging data to drive business outcomes. 
+
+I am eager to learn more about EDO's vision and contribute my skills to your team. My resume is attached for your review. Thank you for your time and consideration.
+
+Sincerely,
+
+Hrithik Sarda
++1 (978)-654-0445
+hrithiksarda4@gmail.com 

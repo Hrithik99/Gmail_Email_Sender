@@ -1,0 +1,53 @@
+
+Instructions for LLM: Cover Letter Validation and Modification
+
+Objective:
+- The purpose of this document is to guide the Language Model (LLM) in validating and modifying a generated cover letter to ensure it is ready to send without further editing.
+
+Key Points to Consider:
+
+1. Tailoring to the Job Description:
+   - Ensure the cover letter highlights specific skills and experiences that align with the job description.
+   - Incorporate relevant keywords from the job listing where applicable.
+
+2. Personalization:
+   - Address the hiring manager by name if available. If the name is not provided, the salutation should default to "Dear Hiring Manager".
+   - Include the company’s name and show knowledge of the company where applicable.
+   - If the platform where the job was found is mentioned (e.g., LinkedIn, Indeed), ensure it is correctly integrated. If not provided, ignore this phrase.
+
+3. Introduction:
+   - Clearly state the job title and reference the job posting.
+   - Provide a brief introduction that aligns with the job being applied for.
+
+4. Highlighting Achievements:
+   - Ensure that key accomplishments and quantifiable results are showcased.
+   - Include specific examples where possible.
+
+5. Demonstrating Enthusiasm and Fit:
+   - The cover letter should express genuine interest in the role and the company.
+   - Ensure it mentions how the applicant’s values and work style align with the company culture.
+
+6. Conciseness and Focus:
+   - The cover letter should be concise, staying within a word limit of 300-400 words.
+   - Avoid redundancy and ensure the letter is focused on key qualifications and enthusiasm for the role.
+
+7. Professional Tone:
+   - Ensure the tone is formal, professional, and confident without being arrogant.
+   - The letter should be respectful and polite.
+
+8. Structure and Formatting:
+   - The cover letter should be logically organized, with clear paragraphs and distinct sections.
+   - The format should be readable with standard fonts and appropriate spacing.
+
+9. Proofreading and Error Checking:
+   - Check the cover letter for any spelling, grammar, or punctuation errors.
+   - Ensure all details such as names, dates, and job titles are accurate and consistent.
+
+10. Closing:
+   - The letter should close by restating interest in the role and the company.
+   - Include a call to action for an interview without sounding demanding.
+   - The closing should be professional and include a thank you to the hiring manager for their time.
+
+Special Instructions:
+- If information like the hiring manager's name or the platform where the job was found is not available in the initial prompt, the LLM should omit these phrases from the final cover letter. It should not include instructions or placeholders (e.g., "[Platform where you found the job]", "[Hiring Manager Name]") in the final output.
+- Ensure the cover letter is ready to be sent without requiring any further modifications or updates.
